@@ -1,2 +1,0 @@
-# kaal
-komputasi aljabar linear
